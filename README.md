@@ -28,7 +28,7 @@ To run the game, simply execute the `rock_paper_scissor.py` file:
 
 ```Terminal
 python rock_paper_scissor.py
-
+```
 
 ## Code Explanation
 
